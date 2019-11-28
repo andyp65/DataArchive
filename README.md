@@ -3,6 +3,7 @@ Data:
 https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/data/ibm-hr-analytics-attrition-dataset.zip
 
 WA_Fn-UseC_-HR-Employee-Attrition.csv
+Data cannot be saved offsite due to security and permissions.  See URL for Zip file and CSV file
 
 Munge:	contains data transformations. New tables created to contain fields; Attrition, Department, JobSatisfaction & MonthlyIncome. MonthlyIncome rounded to nearest 1000. Filter by Sales Department and sorted by JobSatisfaction
 
